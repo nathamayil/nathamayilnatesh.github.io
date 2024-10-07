@@ -12,6 +12,7 @@ module.exports = {
     title: `My website`,
     description: `Just my website`,
     author: `@nathamayil`,
+    name:'mayil',
   },
   plugins: [
     `gatsby-plugin-image`,
