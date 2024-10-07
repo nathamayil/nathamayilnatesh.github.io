@@ -14,8 +14,8 @@ const Head = ({ title, description, image }) => {
       query {
         site {
           siteMetadata {
-            defaultTitle: "Mayil"
-            defaultDescription: "Mayil's personal website"
+            defaultTitle: name
+            defaultDescription: description
           }
         }
       }
